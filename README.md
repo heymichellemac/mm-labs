@@ -1,1 +1,1 @@
-#Enterprise Web Development practical lab repository
+#Enterprise Web Development practical lab repo
