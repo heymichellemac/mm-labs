@@ -3,6 +3,8 @@ var http = require('http');
 // Load the greeting module to provide the greeting.
 var greeting = require('./greeting');
 
+var express = require('express');
+
 // Configure our HTTP server to respond with Hello World to all requests.
 var server = http.createServer(function (request, response) {
   response.writeHead(200, {"Content-Type": "text/plain"});
