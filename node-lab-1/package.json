@@ -1,0 +1,18 @@
+{
+  "name": "node-lab-1",
+  "version": "1.0.0",
+  "description": "simple http server",
+  "main": "app1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "http",
+    "node"
+  ],
+  "author": "Michelle McCausland",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
